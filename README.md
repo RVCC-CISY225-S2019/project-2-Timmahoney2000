@@ -6,12 +6,12 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 2. Delete the README.md file so it does not overwrite this one. 
 3. Upload the rest of the files into this repo. 
 4. Add a footer (with class footer) element to your HTML code. See the header element that is already there for an examlpe.
-5. Add a copyright statement inside your footer. See page 639 of your text to get the code for a copyright symbol.
+5. Add a copyright statement inside your footer using your name. See page 639 of your text to get the code for a copyright symbol.
 6. Look at the picture in this repo's design folder. Make changes to the CSS to copy how the footer looks in the picture.
 7. If all looks good upload files to your repo and commit to your master branch.
 8. Start a new branch called `new-theme`.
 9. Go to [Adobe Color](https://color.adobe.com/explore/?filter=most-used&time=month).
-10. Select a fairly dark color (your choice) and take note of its RGB hex code. The best way to get to the hex codes is to select "Edit Copy".
+10. Select a fairly dark color (your choice) and take note of its RGB hex code. The best way to get to the hex codes is to select `Edit Copy`.
 11. In the branch called new-theme, change your CSS so that the "hero", "iama" and the "footer" classes are your chosen color theme.
 12. Notice the line in the head that says:
 
