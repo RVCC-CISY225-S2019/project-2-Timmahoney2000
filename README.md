@@ -17,7 +17,7 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 
 `<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>`
 
-13. Search for "Google Fonts". Once in that page, use the top-right search for `Source Sans Pro`.
+13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Source Sans Pro`.
 14. Add to your CSS file to use `Source Sans Pro` and if that isn't there, use the system `sans-serif` font.
 16. Validate your html code and your CSS code. Check the formatting, making sure everything is properly nested.
 15. Commit all changes to the new-theme branch. 
