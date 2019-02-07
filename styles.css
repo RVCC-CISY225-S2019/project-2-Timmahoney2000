@@ -79,17 +79,17 @@ img.my-picture {
   border-radius: 50%;
 }
 
-.iama {
+.MyBio {
   max-width: 100%;
   color: #000000;
-  font-size: 1.5em;
+  font-size: 1rem;
   font-style: italic;
 }
 
 .my-info {
   max-width: 100%;
   color: #ea6827;
-  font-size: 1.9rem;
+  font-size: 1rem;
   line-height: 1.8;
   margin: 0px auto 3em;
 }
@@ -108,10 +108,10 @@ img.my-picture {
 
 .my-location {
     color: #rgb(31, 191, 239);
-    font-size: 1rem;
+    font-size: 1.6rem;
     font-weight: 600
+    padding: 4.5em;
     text-align: center;
-    padding: 3.5em;
     text-transform: uppercase;
 }
 
