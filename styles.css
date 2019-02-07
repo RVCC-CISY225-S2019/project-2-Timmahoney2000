@@ -73,9 +73,9 @@ img.my-picture {
   display: block;
   margin: 0 auto 2em;
   /*max-width: 100%;*/
-  width: 8rem;
-  height: 6rem;
-  border: 2px solid rgb(236, 234, 240);
+  width: 11rem;
+  height: 10rem;
+  border: 2px solid rgb(0,0,0);
   border-radius: 50%;
 }
 
