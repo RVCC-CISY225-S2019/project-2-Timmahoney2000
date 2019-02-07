@@ -1,5 +1,5 @@
 body {
- font-family: 'Dr Sugiyama', cursive;
+ font-family: 'Archivo Narrow', sans-serif;
   margin: 0;
 
 }
@@ -15,9 +15,13 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: rgb(31, 191, 239);
+  background-color: dodgerblue;
   height: 3.5em;
   padding: 1em;
+}
+
+.footer {
+    background-color: dodgerblue
 }
 
 img.logo {
@@ -28,7 +32,7 @@ img.logo {
 }
 
 page-title {
-  color: #rgb(000,000,000);
+  color: dodgerblue;
   float: left;
   font-size: 1.1rem;
   line-height: 3rem;
@@ -62,7 +66,7 @@ page-title {
   padding: 4em;
   max-width: 100%;
   background-color: #ea6827;
-  color: #EAECF0;
+  color: black;
 }
 
 img.my-picture {
@@ -70,23 +74,23 @@ img.my-picture {
   margin: 0 auto 2em;
   /*max-width: 100%;*/
   width: 8rem;
-  height: 8rem;
+  height: 6rem;
   border: 2px solid rgb(236, 234, 240);
   border-radius: 50%;
 }
 
 .iama {
   max-width: 100%;
-  color: ##EAECF0;
-  font-size: 1.1em;
+  color: #000000;
+  font-size: 1.5em;
   font-style: italic;
 }
 
 .my-info {
   max-width: 100%;
   color: #000000;
-  font-size: 1.6rem;
-  line-height: 1.5;
+  font-size: 1.9rem;
+  line-height: 1.8;
   margin: 0px auto 3em;
 }
 
@@ -96,7 +100,7 @@ img.my-picture {
 
 .my-name {
   color: black;
-  font-size: 1.6rem;
+  font-size: 1.9rem;
   font-weight: 600;
   text-align: center;
   margin-bottom: 0;
@@ -105,7 +109,7 @@ img.my-picture {
 .my-location {
     color: #rgb(31, 191, 239);
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 600
     text-align: center;
     text-transform: uppercase;
 }
@@ -116,7 +120,7 @@ img.my-picture {
 }
 
 .about-content {
-    border-left: 1px solid #EAECF0;
+    border-left: 1px solid #FFFFFF;
  background-color: #FFFFFF;
     padding-left: 3rem;
 }
